@@ -1,3 +1,3 @@
-module github.com/nextu1337/nxamf
+module github.com/2xxn/nxamf
 
 go 1.18
